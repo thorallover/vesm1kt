@@ -1,5 +1,5 @@
 # Þórarinn Jóhann Kristjánsson
-pie
+pie showdata
     title Key elements in Product X
     "Calcium" : 42.96
     "Potassium" : 50.05
