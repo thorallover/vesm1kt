@@ -28,10 +28,18 @@ Ad esse sit nostrud est sit sunt
 
 Eiusmod tempor et fugiat
 
-```mermaid
 Miðja  Vinstri  Hægri
 12  34  56
 tempor  et  fugiat
+
+```mermaid
+pie
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+
 ```
 
 Dolore ut velit
